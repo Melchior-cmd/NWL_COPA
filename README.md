@@ -56,7 +56,8 @@ Front-end
   
 <div align="center">
 <h1>
-Projeto desenvolvido durante o NLW Setup, promovido pela Rocketseat. Durante o evento, foram desenvolvidas 3 aplicações, uma API em Node, uma aplicação React com Vite e um App em React Native com Expo
+Versão web
 </h1>
 </div>
+ 
 <img src="https://user-images.githubusercontent.com/54017816/232553203-ba898182-ff06-4057-a6d4-37d4bfdf9569.gif" />
