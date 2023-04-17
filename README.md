@@ -1,7 +1,7 @@
 # NWL_COPA
 NWL Copa e uma plataforma web e mobile consumindo a mesma Api rest feita com Nodejs.
 
-
+## <h1><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="28px"/> Tecnologias</h1>
 
 <ul>
 <li>
