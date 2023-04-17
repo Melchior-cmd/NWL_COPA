@@ -54,4 +54,4 @@ Front-end
 
 ## GIFS
 
-<img src="[https://github.com/Melchior-cmd/NWL_COPA/issues/1#issue-1671529823](https://user-images.githubusercontent.com/54017816/232553203-ba898182-ff06-4057-a6d4-37d4bfdf9569.gif)" />
+<img src="https://user-images.githubusercontent.com/54017816/232553203-ba898182-ff06-4057-a6d4-37d4bfdf9569.gif" />
