@@ -80,3 +80,16 @@ nessa tela e os detalhes do bolão aonde você realiza as apostas ver o Ranking 
 
 <img src="https://user-images.githubusercontent.com/54017816/232638351-bbb49ab6-231d-4d8a-8d89-ca970ff352fe.gif" />
 
+## <h1><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png" width="28px"/> Configurações</h1>
+
+Back-end:
+
+<strong>npm run dev </strong>
+
+Front-end
+
+<strong>npm run dev</strong>
+
+Mobile
+
+<strong>Npx expo start</strong>
