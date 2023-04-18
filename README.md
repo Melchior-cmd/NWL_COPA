@@ -79,3 +79,4 @@ aqui está listando a lista dos bolões criados, e estamos usando a funcionalida
 nessa tela e os detalhes do bolão aonde você realiza as apostas ver o Ranking de quem está ganhando , e também consegue compartilha o Código da sala pela funcionalidade share.
 
 <img src="https://user-images.githubusercontent.com/54017816/232638351-bbb49ab6-231d-4d8a-8d89-ca970ff352fe.gif" />
+<img src="https://user-images.githubusercontent.com/54017816/232639516-656216c9-08d4-4cf3-9bc5-7cbfc99d33b8.gif" />
