@@ -71,3 +71,8 @@ Versão Mobile
 Aqui estamos fazendo uma authenticação com a conta do Google no Aplicativo, esta sendo usado api do Google para fazer essa interação com o Back-end, em seguida você consegue cadastrar um novo Bolão pelo app também , como já criamos um bolão na versão Web vamos usa o código gerado para acessar o Bolão no proximo vídeo.
 
 <img src="https://user-images.githubusercontent.com/54017816/232638242-020ca6e2-5faa-4279-81a0-6482344ae3eb.gif" />
+  
+aqui está listando a lista dos bolões criados, e estamos usando a funcionalidade de acessar o bolão pelo código.
+
+<img src="https://user-images.githubusercontent.com/54017816/232639440-3408fcbe-a1a0-456b-a3b0-0c9d6799482f.gif" />
+  
